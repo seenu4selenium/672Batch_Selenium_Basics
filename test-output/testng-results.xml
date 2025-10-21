@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-16T07:28:44 MDT" name="Default suite" finished-at="2025-10-16T07:28:51 MDT" duration-ms="6195">
+  <suite started-at="2025-10-21T07:25:16 MDT" name="Default suite" finished-at="2025-10-21T07:25:23 MDT" duration-ms="6989">
     <groups>
     </groups>
-    <test started-at="2025-10-16T07:28:44 MDT" name="Default test" finished-at="2025-10-16T07:28:51 MDT" duration-ms="6195">
-      <class name="com.testNG.AuotLogin">
-        <test-method signature="f()[pri:0, instance:com.testNG.AuotLogin@7a8c8dcf]" started-at="2025-10-16T07:28:44 MDT" name="f" finished-at="2025-10-16T07:28:51 MDT" duration-ms="6108" status="PASS">
+    <test started-at="2025-10-21T07:25:16 MDT" name="Default test" finished-at="2025-10-21T07:25:23 MDT" duration-ms="6989">
+      <class name="com.testNG.GetTextDemo">
+        <test-method signature="f()[pri:0, instance:com.testNG.GetTextDemo@247bddad]" started-at="2025-10-21T07:25:16 MDT" name="f" finished-at="2025-10-21T07:25:23 MDT" duration-ms="6925" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-      </class> <!-- com.testNG.AuotLogin -->
+      </class> <!-- com.testNG.GetTextDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

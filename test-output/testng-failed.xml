@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testNG.GetTextDemo">
+      <class name="com.testNG.HyperLinkHandling">
         <methods>
           <include name="f"/>
         </methods>
-      </class> <!-- com.testNG.GetTextDemo -->
+      </class> <!-- com.testNG.HyperLinkHandling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
